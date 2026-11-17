@@ -1,0 +1,4 @@
+# Скрипти Gradle Wrapper мають зберігати правильні закінчення рядків
+/gradlew        text eol=lf
+*.bat           text eol=crlf
+*.jar           binary
